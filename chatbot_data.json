@@ -302,7 +302,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Technology and Science"
   },
   {
@@ -311,7 +311,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "Yes",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -320,7 +320,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "Yes",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -356,7 +356,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -374,7 +374,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Technology and Science"
   },
   {
@@ -383,7 +383,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "MLHS"
   },
   {
@@ -401,7 +401,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -437,7 +437,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -446,7 +446,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "Yes",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Technology and Science"
   },
   {
@@ -455,7 +455,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "Yes",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Technology and Science"
   },
   {
@@ -464,7 +464,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -473,7 +473,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -482,7 +482,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Technology and Science"
   },
   {
@@ -491,7 +491,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -509,7 +509,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   },
   {
@@ -527,7 +527,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "Yes",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Technology and Science"
   },
   {
@@ -536,7 +536,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "Yes",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Technology and Science"
   },
   {
@@ -545,7 +545,7 @@
     "Term Engagement": "Short",
     "OCI Holder": "No",
     "Status": "Future",
-    "Repeated": NaN,
+    "Repeated": "NA",
     "Institute": "Health Science"
   }
 ]
